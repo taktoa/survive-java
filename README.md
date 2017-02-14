@@ -7,6 +7,7 @@
 - [Functional Java][fun-java]
 - [Graal][graal]
 - [Truffle][truffle]
+- [KeY][key]
 
 [checker]:  https://checkerframework.org
 [derive4j]: https://github.com/derive4j/derive4j
@@ -15,3 +16,4 @@
 [fun-java]: https://github.com/functionaljava/functionaljava
 [graal]:    https://github.com/graalvm/graal-core
 [truffle]:  https://github.com/graalvm/truffle
+[key]:      http://key-project.org

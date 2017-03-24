@@ -8,6 +8,8 @@
 - [Graal][graal]
 - [Truffle][truffle]
 - [KeY][key]
+- [Project Lombok](https://projectlombok.org/)
+- [Javaslang](http://www.javaslang.io/)
 
 [checker]:  https://checkerframework.org
 [derive4j]: https://github.com/derive4j/derive4j
